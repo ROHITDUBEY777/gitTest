@@ -1,3 +1,4 @@
+this is a txt file<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 iam learning git today
@@ -7,6 +8,10 @@ and I am Rohit
 Hey,Everyone I am rohit  
 studying in Acharya Institute of technology
 >>>>>>> feature_branch
+=======
+iam learning git today
+i am learning it today 
+>>>>>>> parent of bf451be (updated changes in existing file)
 =======
 iam learning git today
 i am learning it today 
